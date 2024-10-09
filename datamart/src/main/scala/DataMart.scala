@@ -42,7 +42,7 @@ object DataMart {
   private val logger = Logger("Logger")
   private val curDir = System.getProperty("user.dir")
 
-  private val user = "ddulaev"
+  private val user = "aandreev"
   //noinspection HttpUrlsUsage
   private val downloadOrigin = "http://" + HOST + ":" + "9870"
   private val uploadOrigin = "http://datanode:9864"
